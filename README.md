@@ -4,9 +4,13 @@
 Python: Desenvolvimento de scripts, automações e projetos web com Django/Flask.
 JavaScript: Criação de interfaces dinâmicas e interativas.
 HTML & CSS: Estruturação e estilização de páginas web responsivas.
+<br>
+
 🌱 Estou atualmente estudando:
 Node.js: Explorando o desenvolvimento de aplicações backend com JavaScript.
 Data Science: Aprendendo sobre análise de dados, machine learning e visualização de dados.
+<br>
+
 🎓 Em busca de oportunidades para me aprimorar como desenvolvedor e contribuir em projetos inovadores.
 
 💼 Interessado em vagas de Desenvolvedor Júnior, onde posso aplicar minhas habilidades e aprender com uma equipe colaborativa.
@@ -15,8 +19,8 @@ Data Science: Aprendendo sobre análise de dados, machine learning e visualizaç
 
 🚀 Projetos recentes:
 
-Projeto 1: Descrição breve do projeto.
-Projeto 2: Descrição breve do projeto.
+Projeto 1: Descrição breve do projeto.<br>
+Projeto 2: Descrição breve do projeto.<br>
 📫 Você pode me encontrar em:
 <div> 
   <a href="https://www.instagram.com/henrique_oliveira.22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
