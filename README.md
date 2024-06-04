@@ -19,8 +19,8 @@ Data Science: Aprendendo sobre análise de dados, machine learning e visualizaç
 
 🚀 Projetos recentes:
 
-Projeto 1: Descrição breve do projeto.<br>
-Projeto 2: Descrição breve do projeto.<br>
+Projeto 1: .<br>
+Projeto 2: .<br>
 📫 Você pode me encontrar em:
 <div> 
   <a href="https://www.instagram.com/henrique_oliveira.22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
