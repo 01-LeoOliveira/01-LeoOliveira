@@ -1,27 +1,30 @@
-👋 Olá! Eu sou Leo Oliveira 🌟
-
+👋 Olá! Eu sou Leo Oliveira 🌟<br>
+<br>
 💻 Desenvolvedor Júnior iniciando no mundo da programação, mas já tenho conhecimento em:<br>
+<br>
 
 Python: Desenvolvimento de scripts, automações e projetos web com Django/Flask.<br>
 JavaScript: Criação de interfaces dinâmicas e interativas.<br>
-HTML & CSS: Estruturação e estilização de páginas web responsivas.
+HTML & CSS: Estruturação e estilização de páginas web responsivas.<br>
+<br>
+🌱 Estou atualmente estudando:<br>
 <br>
 
-🌱 Estou atualmente estudando:
-<br>
 Node.js: Explorando o desenvolvimento de aplicações backend com JavaScript.<br>
 Data Science: Aprendendo sobre análise de dados, machine learning e visualização de dados.<br>
-
-🎓 Em busca de oportunidades para me aprimorar como desenvolvedor e contribuir em projetos inovadores.<br>
-
-💼 Interessado em vagas de Desenvolvedor Júnior, onde posso aplicar minhas habilidades e aprender com uma equipe colaborativa.<br>
-
-📚 Além de programar, gosto de aprender sobre novas tecnologias e boas práticas de desenvolvimento.<br>
-
-🚀 Projetos recentes:
 <br>
+🎓 Em busca de oportunidades para me aprimorar como desenvolvedor e contribuir em projetos inovadores.<br>
+<br>
+💼 Interessado em vagas de Desenvolvedor Júnior, onde posso aplicar minhas habilidades e aprender com uma equipe colaborativa.<br>
+<br>
+📚 Além de programar, gosto de aprender sobre novas tecnologias e boas práticas de desenvolvimento.<br>
+<br>
+🚀 Projetos recentes:<br>
+<br>
+
 Projeto 1: .<br>
 Projeto 2: .<br>
+<br>
 📫 Você pode me encontrar em:<br>
 <div> 
   <a href="https://www.instagram.com/henrique_oliveira.22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
