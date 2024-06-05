@@ -4,11 +4,12 @@
 
 Python: Desenvolvimento de scripts, automações e projetos web com Django/Flask.<br>
 JavaScript: Criação de interfaces dinâmicas e interativas.<br>
-HTML & CSS: Estruturação e estilização de páginas web responsivas.<br>
+HTML & CSS: Estruturação e estilização de páginas web responsivas.
 <br>
+
 🌱 Estou atualmente estudando:
 <br>
-Node.js: Explorando o desenvolvimento de aplicações backend com JavaScript.
+Node.js: Explorando o desenvolvimento de aplicações backend com JavaScript.<br>
 Data Science: Aprendendo sobre análise de dados, machine learning e visualização de dados.<br>
 🎓 Em busca de oportunidades para me aprimorar como desenvolvedor e contribuir em projetos inovadores.<br>
 
