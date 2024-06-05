@@ -2,9 +2,9 @@
 
 💻 Desenvolvedor Júnior iniciando no mundo da programação, mas já tenho conhecimento em:<br>
 
-Python: Desenvolvimento de scripts, automações e projetos web com Django/Flask.
-JavaScript: Criação de interfaces dinâmicas e interativas.
-HTML & CSS: Estruturação e estilização de páginas web responsivas.
+Python: Desenvolvimento de scripts, automações e projetos web com Django/Flask.<br>
+JavaScript: Criação de interfaces dinâmicas e interativas.<br>
+HTML & CSS: Estruturação e estilização de páginas web responsivas.<br>
 <br>
 🌱 Estou atualmente estudando:
 <br>
