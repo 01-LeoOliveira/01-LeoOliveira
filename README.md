@@ -11,6 +11,7 @@ HTML & CSS: Estruturação e estilização de páginas web responsivas.
 <br>
 Node.js: Explorando o desenvolvimento de aplicações backend com JavaScript.<br>
 Data Science: Aprendendo sobre análise de dados, machine learning e visualização de dados.<br>
+
 🎓 Em busca de oportunidades para me aprimorar como desenvolvedor e contribuir em projetos inovadores.<br>
 
 💼 Interessado em vagas de Desenvolvedor Júnior, onde posso aplicar minhas habilidades e aprender com uma equipe colaborativa.<br>
